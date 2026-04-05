@@ -1,0 +1,15 @@
+{
+  "name": "kb",
+  "description": "Personal knowledge base management skills: extract insights from reviews and articles, import into structured personal system, and run health checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "YOUR_GITHUB_USERNAME"
+  },
+  "keywords": [
+    "knowledge-base",
+    "pkm",
+    "review",
+    "article",
+    "import"
+  ]
+}
