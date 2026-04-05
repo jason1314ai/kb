@@ -5,7 +5,7 @@
 ## 安装
 
 ```
-/plugin install YOUR_GITHUB_USERNAME/kb
+/plugin install jason1314ai/kb
 ```
 
 ## 包含的 Skills
